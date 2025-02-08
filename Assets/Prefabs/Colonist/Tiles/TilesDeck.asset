@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dd64cfb784ccbb49915c92138d79caf, type: 3}
+  m_Name: TilesDeck
+  m_EditorClassIdentifier: 
+  TileArray:
+  - {fileID: 3151744696513717502, guid: 780b96058f546f644bb1ef8f2041de6d, type: 3}
+  - {fileID: 3151744696513717502, guid: 780b96058f546f644bb1ef8f2041de6d, type: 3}
+  - {fileID: 3151744696513717502, guid: 780b96058f546f644bb1ef8f2041de6d, type: 3}
+  - {fileID: 3151744696513717502, guid: 780b96058f546f644bb1ef8f2041de6d, type: 3}
+  - {fileID: 8525473439788771233, guid: 3d566bdf42e624b48ab3bc73f5b7186f, type: 3}
+  - {fileID: 8525473439788771233, guid: 3d566bdf42e624b48ab3bc73f5b7186f, type: 3}
+  - {fileID: 8525473439788771233, guid: 3d566bdf42e624b48ab3bc73f5b7186f, type: 3}
+  - {fileID: 8525473439788771233, guid: 3d566bdf42e624b48ab3bc73f5b7186f, type: 3}
+  - {fileID: 6554326143942902554, guid: d1026a962e8c6cb4a9cbd26dcb0e1f3f, type: 3}
+  - {fileID: 6554326143942902554, guid: d1026a962e8c6cb4a9cbd26dcb0e1f3f, type: 3}
+  - {fileID: 6554326143942902554, guid: d1026a962e8c6cb4a9cbd26dcb0e1f3f, type: 3}
+  - {fileID: 6554326143942902554, guid: d1026a962e8c6cb4a9cbd26dcb0e1f3f, type: 3}
+  - {fileID: 6168374118667264505, guid: 1732258c522c52645b01a61c7e67f0ff, type: 3}
+  - {fileID: 6168374118667264505, guid: 1732258c522c52645b01a61c7e67f0ff, type: 3}
+  - {fileID: 6168374118667264505, guid: 1732258c522c52645b01a61c7e67f0ff, type: 3}
+  - {fileID: 3918834303107332722, guid: 9f3d4b35ef330274a9b1b9a45f2b598f, type: 3}
+  - {fileID: 3918834303107332722, guid: 9f3d4b35ef330274a9b1b9a45f2b598f, type: 3}
+  - {fileID: 3918834303107332722, guid: 9f3d4b35ef330274a9b1b9a45f2b598f, type: 3}

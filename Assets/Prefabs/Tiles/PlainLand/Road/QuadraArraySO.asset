@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dd64cfb784ccbb49915c92138d79caf, type: 3}
+  m_Name: QuadraArraySO
+  m_EditorClassIdentifier: 
+  TileArray:
+  - {fileID: 2138292978979144470, guid: a4ddfc7c618cc244b97b141bee9fee67, type: 3}
+  - {fileID: 6278871630002402891, guid: a26cac8d4e63dfc4a9ad43e2623729e3, type: 3}
+  - {fileID: 7297610703017302388, guid: 469075108a83a3147b397d441817cbae, type: 3}
+  - {fileID: 1062954790793840948, guid: dc0cce73f168945418ebb96b3de4095a, type: 3}
+  - {fileID: 6261883603071702889, guid: 27e326a5fdd0cc0459a535c63cbf1059, type: 3}
+  - {fileID: 2296064364564024735, guid: 5a6d135e3c6e0074e8838142e4944f53, type: 3}
+  - {fileID: 1852773053321954958, guid: 0d18fb3929e4f904d8faaaaa72ef2c9f, type: 3}
+  - {fileID: 8080672530686527059, guid: 52ad0e5fcf8b7f24c9f4fd6f367d3ef5, type: 3}
+  - {fileID: 4110215066066886050, guid: e2655563c0d57694b8851638b017216f, type: 3}
+  - {fileID: 8403399061334550816, guid: 401a238d25ebe68439a1f7f851faf39b, type: 3}
+  - {fileID: 7038548824061586442, guid: 403f1cba9535f134fb029aac3d3af777, type: 3}
+  - {fileID: 4345177429038954958, guid: ac3dc91b6ee81e54d89a6ff7bb600ce0, type: 3}
+  - {fileID: 5550671613190747416, guid: 83805ea79494af84f978fdf1ffbd3141, type: 3}
+  - {fileID: 272173542746852371, guid: 79cdbf8cc69ea34479afad12b8c181b1, type: 3}
+  - {fileID: 1163932301845950295, guid: 86b287cf0f51dc444af87d57656178ea, type: 3}
+  - {fileID: 8333286690556838298, guid: 328a43b4f73c62a499e326b6ab8130a4, type: 3}
+  - {fileID: 1719717328313380352, guid: 78525439503bc1f4da691bf244250ed5, type: 3}
+  - {fileID: 6551364286978087147, guid: bc46b9b395baece498eacdb5560ba348, type: 3}

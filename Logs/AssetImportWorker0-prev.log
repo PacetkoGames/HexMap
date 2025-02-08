@@ -1,0 +1,1578 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.57f1 (9d8bd91adc0a) revision 10324953'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'uk' Physical Memory: 16335 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.57f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/unity/Fantasy Trader Ultimate
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58029
+Successfully changed project path to: D:/unity/Fantasy Trader Ultimate
+D:/unity/Fantasy Trader Ultimate
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10020]  Target information:
+
+Player connection [10020]  * "[IP] 192.168.31.34 [Port] 0 [Flags] 2 [Guid] 3873062029 [EditorId] 3873062029 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6NH90J4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10020]  * "[IP] 172.16.0.2 [Port] 0 [Flags] 2 [Guid] 3873062029 [EditorId] 3873062029 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6NH90J4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10020]  * "[IP] 192.168.31.251 [Port] 0 [Flags] 2 [Guid] 3873062029 [EditorId] 3873062029 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6NH90J4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10020] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [10020] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+Refreshing native plugins compatible for Editor in 1309.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.57f1 (9d8bd91adc0a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.57f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unity/Fantasy Trader Ultimate/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   NVIDIA
+    VRAM:     8060 MB
+    Driver:   32.0.15.6590
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.57f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.57f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.57f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56008
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.57f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.57f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.018322 seconds.
+- Loaded All Assemblies, in  0.576 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+CommandWithNoStdoutInvokationFailure: Unable to start ADB server. Please make sure the Android SDK is installed and is properly configured in the Editor. See the Console for more details.
+  at UnityEditor.Android.Command.RunWithShellExecute (System.String command, System.String args, System.String workingdir, System.String errorMsg) [0x00060] in <5ced052f498646548e8058dd17892960>:0 
+  at UnityEditor.Android.ADB.StartServer () [0x00013] in <5ced052f498646548e8058dd17892960>:0 
+  at UnityEditor.Android.ADB.Run (System.String[] command, UnityEditor.Android.Command+WaitingForProcessToExit waitingForProcessToExit, System.String errorMsg) [0x0000b] in <5ced052f498646548e8058dd17892960>:0 
+  at UnityEditor.Android.AndroidDeploymentTargetsExtension.GetKnownTargets (UnityEditor.DeploymentTargets.IDeploymentTargetsMainThreadContext context, UnityEditor.ProgressHandler progressHandler) [0x002ae] in <5ced052f498646548e8058dd17892960>:0 
+  at UnityEditor.Android.TargetScanWorker.ScanSync () [0x00049] in <5ced052f498646548e8058dd17892960>:0 
+  at UnityEditor.Android.TargetExtension.OnUsbDevicesChanged (UnityEditor.Hardware.UsbDevice[] usbDevices) [0x00087] in <5ced052f498646548e8058dd17892960>:0 
+  at UnityEditor.Android.TargetExtension.OnLoad () [0x000b4] in <5ced052f498646548e8058dd17892960>:0 
+  at UnityEditor.Modules.ModuleManager.InitializePlatformSupportModules () [0x0009d] in <1a49100dc0894bfc95bed836b8ae4cdc>:0 
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  6.171 seconds
+Domain Reload Profiling: 6745ms
+	BeginReloadAssembly (196ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (86ms)
+	LoadAllAssembliesAndSetupDomain (228ms)
+		LoadAssemblies (193ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (224ms)
+			TypeCache.Refresh (223ms)
+				TypeCache.ScanAssembly (205ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (6172ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (6108ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5906ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (138ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.942 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.998 seconds
+Domain Reload Profiling: 1937ms
+	BeginReloadAssembly (254ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (75ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (79ms)
+	LoadAllAssembliesAndSetupDomain (509ms)
+		LoadAssemblies (421ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (233ms)
+			TypeCache.Refresh (183ms)
+				TypeCache.ScanAssembly (161ms)
+			ScanForSourceGeneratedMonoScriptInfo (31ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (999ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (710ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (443ms)
+			ProcessInitializeOnLoadMethodAttributes (117ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 4.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3754 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (0.8 MB). Loaded Objects now: 4224.
+Memory consumption went from 185.4 MB to 184.7 MB.
+Total: 6.016100 ms (FindLiveObjects: 0.498500 ms CreateObjectMapping: 0.410800 ms MarkObjects: 4.626300 ms  DeleteObjects: 0.479600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: eb100d06eb73a14b5d559967e8f68c5f -> 0a393af2aa9d0f0d2c8428e96586805b
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.626 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.460 seconds
+Domain Reload Profiling: 2082ms
+	BeginReloadAssembly (243ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (60ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (251ms)
+		LoadAssemblies (366ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (27ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (1461ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (625ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (392ms)
+			ProcessInitializeOnLoadMethodAttributes (118ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 4.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3555 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (0.8 MB). Loaded Objects now: 4214.
+Memory consumption went from 154.3 MB to 153.5 MB.
+Total: 4.939700 ms (FindLiveObjects: 0.412600 ms CreateObjectMapping: 0.439200 ms MarkObjects: 3.609800 ms  DeleteObjects: 0.477200 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9957.385702 seconds.
+  path: Assets/Prefabs/Tile.prefab
+  artifactKey: Guid(aee738084b22ee647a14e51cb66a1298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tile.prefab using Guid(aee738084b22ee647a14e51cb66a1298) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b6d7d07a116cf7322a308d0534bf8c4a') in 0.639231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/PolygonMini_Fantasy
+  artifactKey: Guid(86c33630e823a694b954a6525e56b26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonMini_Fantasy using Guid(86c33630e823a694b954a6525e56b26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '13496f2d037d0d2a3267f164822174f2') in 0.000773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Forest/Tile_Forest_LT.prefab
+  artifactKey: Guid(39bf54994bf5e9f4dab5943497bb0f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Forest/Tile_Forest_LT.prefab using Guid(39bf54994bf5e9f4dab5943497bb0f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1356ef4bb8c168d7254b97fdf2e691e1') in 0.137134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 65
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Forest/Tile_Forest_L.prefab
+  artifactKey: Guid(efc57db3698280e45a43ec97678bac80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Forest/Tile_Forest_L.prefab using Guid(efc57db3698280e45a43ec97678bac80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f6f2bd2d8c0b25de7531e186c04889a8') in 0.028762 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 65
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/Colonist/Tiles/Resources_Sheep.prefab
+  artifactKey: Guid(3d566bdf42e624b48ab3bc73f5b7186f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Colonist/Tiles/Resources_Sheep.prefab using Guid(3d566bdf42e624b48ab3bc73f5b7186f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4c9e7b7e1fd110ef5e9a76e06ab0d46b') in 0.593461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 169
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Prefabs/Colonist/Tiles/Resources_Clay.prefab
+  artifactKey: Guid(1732258c522c52645b01a61c7e67f0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Colonist/Tiles/Resources_Clay.prefab using Guid(1732258c522c52645b01a61c7e67f0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '444516ad869845f1a002854d06c92df9') in 0.168052 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 78
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Prefabs/Colonist/Tiles/Resources_Wood.prefab
+  artifactKey: Guid(780b96058f546f644bb1ef8f2041de6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Colonist/Tiles/Resources_Wood.prefab using Guid(780b96058f546f644bb1ef8f2041de6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5f4afdc7b453a00e7117af9688767b95') in 0.120507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 36
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Single/Dead End/Tile_Road_Single_LT.prefab
+  artifactKey: Guid(dfb24e355708c8143a55cca3122b53e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Single/Dead End/Tile_Road_Single_LT.prefab using Guid(dfb24e355708c8143a55cca3122b53e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2bae701fc3c7295112c416f5eb89e3bd') in 0.024946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/City/Tile_Wall_0.prefab
+  artifactKey: Guid(c0991c0b0be8b0046bb1812c5a89eff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/City/Tile_Wall_0.prefab using Guid(c0991c0b0be8b0046bb1812c5a89eff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4fcbdc018c2564be6b1747dbdecb02ff') in 0.329452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 80
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Prefabs/Colonist/Tiles/Resources_Rock.prefab
+  artifactKey: Guid(9f3d4b35ef330274a9b1b9a45f2b598f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Colonist/Tiles/Resources_Rock.prefab using Guid(9f3d4b35ef330274a9b1b9a45f2b598f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5f2337113d99654f3597c35bce210c7e') in 0.052989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 23
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/FlatFieldArray 1.asset
+  artifactKey: Guid(6e64dc21362a60e4f8dd14168ab06aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/FlatFieldArray 1.asset using Guid(6e64dc21362a60e4f8dd14168ab06aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '50804e32d3d4a0a2349d4f2cbcbfdeb3') in 0.083069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Prefabs/Colonist/Tiles/Resources_Wood 2.prefab
+  artifactKey: Guid(56f2c6c283fec8c468474b82435f851a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Colonist/Tiles/Resources_Wood 2.prefab using Guid(56f2c6c283fec8c468474b82435f851a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '72819b60e23f5db01312404bc1c6dc3e') in 0.029314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 7.615935 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/RoadStartArraySO.asset
+  artifactKey: Guid(e9b87ed90a58eec4fb045a601aa74b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/RoadStartArraySO.asset using Guid(e9b87ed90a58eec4fb045a601aa74b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0593e4d44c086694842521b27a703ff8') in 0.006951 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 68
+========================================================================
+Received Import Request.
+  Time since last request: 18.847545 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/RoadStartArray.asset
+  artifactKey: Guid(257b99d69a5d55a4181bf0f57f526949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/RoadStartArray.asset using Guid(257b99d69a5d55a4181bf0f57f526949) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0e35712d1d9993dd18995bef6b84d56e') in 0.649124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 523
+========================================================================
+Received Import Request.
+  Time since last request: 21.972322 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Corner_120/Tile_Road_Turn120_LT_LB.prefab
+  artifactKey: Guid(6edd5cb2b08fc574c9e5c0d6df29f3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Corner_120/Tile_Road_Turn120_LT_LB.prefab using Guid(6edd5cb2b08fc574c9e5c0d6df29f3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '43c4372cf3b82cffdcca78dca04d9c95') in 0.115572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Corner_120/Tile_Road_Turn120_RT_L.prefab
+  artifactKey: Guid(e42f114f1a387c0458549aae2959121f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Corner_120/Tile_Road_Turn120_RT_L.prefab using Guid(e42f114f1a387c0458549aae2959121f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e1114ff6c21510becaeb8adab0a44b64') in 0.029576 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Corner_120/Tile_Road_Turn120_RB_L.prefab
+  artifactKey: Guid(efca381f27faef34bb4d974037a3addb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Corner_120/Tile_Road_Turn120_RB_L.prefab using Guid(efca381f27faef34bb4d974037a3addb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2a973be5ead274a9d25809032e1a3a31') in 0.025453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 6.017685 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Straight/Tile_Road_Line_L_R.prefab
+  artifactKey: Guid(b18a92a8a8ef8ad44a69771d0f242941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Straight/Tile_Road_Line_L_R.prefab using Guid(b18a92a8a8ef8ad44a69771d0f242941) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6859f9403beb6e833ffc1d9eba15b00b') in 0.115285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Straight/Tile_Road_Line_LT_RB.prefab
+  artifactKey: Guid(d9717117c73ddce4cb6ef9fe32290774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Straight/Tile_Road_Line_LT_RB.prefab using Guid(d9717117c73ddce4cb6ef9fe32290774) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'adcb5a9c97363109c7d037cb4eef0f21') in 0.026137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 3.190555 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Corner_60/Tile_Road_Turn60_L_LT.prefab
+  artifactKey: Guid(57ffa608bd71dbe429025e4704e3db2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Corner_60/Tile_Road_Turn60_L_LT.prefab using Guid(57ffa608bd71dbe429025e4704e3db2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '89fcf6344ea1c9ede2a171083531f5c9') in 1.832567 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Corner_60/Tile_Road_Turn60_LT_RT.prefab
+  artifactKey: Guid(55826fc8f705a274f8183a8ff4f96e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Corner_60/Tile_Road_Turn60_LT_RT.prefab using Guid(55826fc8f705a274f8183a8ff4f96e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '811a5bc65477c1ea4f3aea3db8bd384b') in 0.026961 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Corner_60/Tile_Road_Turn60_RB_LB.prefab
+  artifactKey: Guid(892f0834a386b294f9a77390cc451764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Corner_60/Tile_Road_Turn60_RB_LB.prefab using Guid(892f0834a386b294f9a77390cc451764) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'da4ff73a72f6cc32b6eb5686fb2c8faf') in 0.728485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 18.079273 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_LB_L_LT.prefab
+  artifactKey: Guid(60db91db077456943be90085a60b06d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_LB_L_LT.prefab using Guid(60db91db077456943be90085a60b06d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a0fd7758944789f04654c84ccd48d32e') in 0.079283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_R_RB_LB.prefab
+  artifactKey: Guid(efb71be914fa7ab4889bec05d5597a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_R_RB_LB.prefab using Guid(efb71be914fa7ab4889bec05d5597a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dd5f69049a1da66b87b67339f6ea5b53') in 0.043534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_R_LB_L.prefab
+  artifactKey: Guid(63978d004546b314a926c0e9eeaeb860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_R_LB_L.prefab using Guid(63978d004546b314a926c0e9eeaeb860) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '464f40d2567a4cabdee21bab03901423') in 0.037646 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 95
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_RB_LB.prefab
+  artifactKey: Guid(909d4c9c47da01b4cb2fddf63c0ce77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_RB_LB.prefab using Guid(909d4c9c47da01b4cb2fddf63c0ce77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e0c787a9ec55fb7feed12784643a8c46') in 0.023757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RB_L_LT.prefab
+  artifactKey: Guid(95b4857b5885f134a990c39d9023586f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RB_L_LT.prefab using Guid(95b4857b5885f134a990c39d9023586f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'eeaa26b17a2f3169087cfe76479ec2cc') in 0.032850 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_R_LT.prefab
+  artifactKey: Guid(78d987d4015158841813bc27e02f21ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_R_LT.prefab using Guid(78d987d4015158841813bc27e02f21ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c4aeace9e357e4ee4801f73e5fed4cd3') in 0.031897 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_R_RB.prefab
+  artifactKey: Guid(7dbc3a98bc545984b8c58fd861f50086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_R_RB.prefab using Guid(7dbc3a98bc545984b8c58fd861f50086) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'aa714acf7fbcc3c821968aecdbe04bcf') in 0.037656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_R_L.prefab
+  artifactKey: Guid(471a9237a04b92c4080777044f94ba7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_R_L.prefab using Guid(471a9237a04b92c4080777044f94ba7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd2eeab00dc7d5635643dabf4532c64ea') in 0.025827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RB_LB_L.prefab
+  artifactKey: Guid(16b130fd813e47f489f594d988b20dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RB_LB_L.prefab using Guid(16b130fd813e47f489f594d988b20dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '79204b621fdab27b64518e5d1a0dce47') in 0.027446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_RB_LT.prefab
+  artifactKey: Guid(0c21c2c49fadae445b147ebf786c5091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RT_RB_LT.prefab using Guid(0c21c2c49fadae445b147ebf786c5091) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bffaaa6f0329bf30faf93c7d9a0d7e4f') in 0.023585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_R_LB_LT_2.prefab
+  artifactKey: Guid(316b4e21538f59a4ab9627489d53e5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_R_LB_LT_2.prefab using Guid(316b4e21538f59a4ab9627489d53e5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '90842bb4eb38bdc90d8aeacd488dc9a2') in 0.024838 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_R_RB_L.prefab
+  artifactKey: Guid(ffb201aa60f44994fa2a163ec9832f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_R_RB_L.prefab using Guid(ffb201aa60f44994fa2a163ec9832f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '70f7c89ba844c69a497d3511d39c08b5') in 0.028571 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RB_L_RT.prefab
+  artifactKey: Guid(b7f5aab8817f21840881b101c43f6e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/Road/Triple Y/Tile_Road_Cross_RB_L_RT.prefab using Guid(b7f5aab8817f21840881b101c43f6e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '105b65da19903d2e1f32cbe5af1406c6') in 0.022867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 7.824227 seconds.
+  path: Assets/Prefabs/Tiles/PlainLand/AllRoadArray.asset
+  artifactKey: Guid(cdafc02954a49e74596272e3995c6420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/PlainLand/AllRoadArray.asset using Guid(cdafc02954a49e74596272e3995c6420) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f741713eb3392362094f11182330c126') in 0.263312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 769
+========================================================================
+Received Import Request.
+  Time since last request: 6.965749 seconds.
+  path: Assets/Samples/Input System
+  artifactKey: Guid(1cfb515b695c9cd44876fdc29343be8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Input System using Guid(1cfb515b695c9cd44876fdc29343be8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '73878bd0aa85a1bdaca45a16122885a8') in 0.012084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.646728 seconds.
+  path: Assets/Samples/Input System/1.7.0
+  artifactKey: Guid(ba5d4ecb7d1e22944a6051bda5c0bd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Input System/1.7.0 using Guid(ba5d4ecb7d1e22944a6051bda5c0bd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '194b201e0e89b0a38fef636a00712743') in 0.022630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.785347 seconds.
+  path: Assets/Samples/Input System/1.7.0/Simple Demo
+  artifactKey: Guid(004c94a2c67a496408aac5afbc852b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Input System/1.7.0/Simple Demo using Guid(004c94a2c67a496408aac5afbc852b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2a5462f8fb1fe5250fbfa3f9bef89c10') in 0.016381 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.561226 seconds.
+  path: Assets/Samples/Input System/1.7.0/Visualizers
+  artifactKey: Guid(1c3f246cfb7bbb8489f235814a640dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Input System/1.7.0/Visualizers using Guid(1c3f246cfb7bbb8489f235814a640dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '220f4478d8cb36ddd2c142ca0b1a60d6') in 0.021836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.694 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.455 seconds
+Domain Reload Profiling: 2145ms
+	BeginReloadAssembly (276ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (19ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (68ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (277ms)
+		LoadAssemblies (367ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (66ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (39ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1455ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (692ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (32ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (433ms)
+			ProcessInitializeOnLoadMethodAttributes (114ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Refreshing native plugins compatible for Editor in 3.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3546 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (0.8 MB). Loaded Objects now: 4267.
+Memory consumption went from 159.4 MB to 158.6 MB.
+Total: 6.231300 ms (FindLiveObjects: 0.655100 ms CreateObjectMapping: 0.531700 ms MarkObjects: 4.669600 ms  DeleteObjects: 0.373500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 97630f1b4ba30f06464b06e9e71d42ad -> 0a393af2aa9d0f0d2c8428e96586805b
+  custom:scripting/precompiled-assembly-types:InputSystem.Samples.Visualizers:  -> 5d491fe0c3488dc3b041579e13f451f1
+========================================================================
+Received Import Request.
+  Time since last request: 146.322320 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(dea4d46db8dcbaa4f82e26516635c59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(dea4d46db8dcbaa4f82e26516635c59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9a655d5e21ffe9c47163bf088771ed0c') in 0.013517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.925638 seconds.
+  path: Assets/Scripts/GameCameraController.cs
+  artifactKey: Guid(9824e1666bda4e748a93647e82b19061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameCameraController.cs using Guid(9824e1666bda4e748a93647e82b19061) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fed22f37b2e423650a6ff3e564028214') in 0.014287 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.151 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in 66.431 seconds
+Domain Reload Profiling: 67578ms
+	BeginReloadAssembly (252ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (99ms)
+	RebuildNativeTypeToScriptingClass (32ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (696ms)
+		LoadAssemblies (767ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (69ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (42ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (66432ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (840ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (75ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (177ms)
+			ProcessInitializeOnLoadAttributes (437ms)
+			ProcessInitializeOnLoadMethodAttributes (131ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (36ms)
+Refreshing native plugins compatible for Editor in 3.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3546 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (0.8 MB). Loaded Objects now: 4283.
+Memory consumption went from 159.3 MB to 158.5 MB.
+Total: 5.342100 ms (FindLiveObjects: 0.486800 ms CreateObjectMapping: 0.442200 ms MarkObjects: 3.967100 ms  DeleteObjects: 0.444900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 9f6218ceeb54960c878f5aaf914cc79f -> 0a393af2aa9d0f0d2c8428e96586805b
+  custom:scripting/precompiled-assembly-types:InputSystem.Samples.Visualizers:  -> 5d491fe0c3488dc3b041579e13f451f1
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.630 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.406 seconds
+Domain Reload Profiling: 2032ms
+	BeginReloadAssembly (231ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (64ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (263ms)
+		LoadAssemblies (351ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (55ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (33ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1406ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (630ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (82ms)
+			ProcessInitializeOnLoadAttributes (396ms)
+			ProcessInitializeOnLoadMethodAttributes (106ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (24ms)
+Refreshing native plugins compatible for Editor in 3.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3544 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (0.8 MB). Loaded Objects now: 4297.
+Memory consumption went from 159.2 MB to 158.4 MB.
+Total: 4.948200 ms (FindLiveObjects: 0.386200 ms CreateObjectMapping: 0.262700 ms MarkObjects: 3.912500 ms  DeleteObjects: 0.385600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: e1b33764747dc08ec88103e2444f72d8 -> 0a393af2aa9d0f0d2c8428e96586805b
+  custom:scripting/precompiled-assembly-types:InputSystem.Samples.Visualizers:  -> 5d491fe0c3488dc3b041579e13f451f1
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.624 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.485 seconds
+Domain Reload Profiling: 2107ms
+	BeginReloadAssembly (239ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (259ms)
+		LoadAssemblies (372ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (1486ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (613ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (88ms)
+			ProcessInitializeOnLoadAttributes (361ms)
+			ProcessInitializeOnLoadMethodAttributes (117ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (32ms)
+Refreshing native plugins compatible for Editor in 4.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3544 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (0.8 MB). Loaded Objects now: 4313.
+Memory consumption went from 159.2 MB to 158.4 MB.
+Total: 6.077600 ms (FindLiveObjects: 0.429300 ms CreateObjectMapping: 0.371700 ms MarkObjects: 4.894500 ms  DeleteObjects: 0.381100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 0bf02217e5e746b251862dbb12af7394 -> 0a393af2aa9d0f0d2c8428e96586805b
+  custom:scripting/precompiled-assembly-types:InputSystem.Samples.Visualizers:  -> 5d491fe0c3488dc3b041579e13f451f1
+========================================================================
+Received Import Request.
+  Time since last request: 823.330180 seconds.
+  path: Assets/Scripts/CatanColonizator
+  artifactKey: Guid(1c8fd422e71d94641b67fb6ddc7ee70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CatanColonizator using Guid(1c8fd422e71d94641b67fb6ddc7ee70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0c3ef8721508f43aa5b8b36c8b984cbc') in 0.030300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.543190 seconds.
+  path: Assets/Scripts/ScriptableObjects/BiomeArraysSO.cs
+  artifactKey: Guid(5cba65d32baa4494f9a5344bd6be277a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/BiomeArraysSO.cs using Guid(5cba65d32baa4494f9a5344bd6be277a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1a501108a82a75d6870f0a2dfd79d3c6') in 0.000840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.637255 seconds.
+  path: Assets/Scripts/ScriptableObjects/TileSO.cs
+  artifactKey: Guid(e1812aeab9b28cd4da505d8ffd8ca53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/TileSO.cs using Guid(e1812aeab9b28cd4da505d8ffd8ca53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3b97a2d4fbcf5b37ab355b99f6887ed6') in 0.000716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.202954 seconds.
+  path: Assets/Scripts/GameEnums.cs
+  artifactKey: Guid(fff70e6d69ac4d34b9f482c8582d5b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameEnums.cs using Guid(fff70e6d69ac4d34b9f482c8582d5b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '75a8b99dd491b50dee8dbffd15185355') in 0.000705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.676884 seconds.
+  path: Assets/Scripts/HexTileMap.cs
+  artifactKey: Guid(9546f87a7ce875f4f8f0f29cfa5363b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HexTileMap.cs using Guid(9546f87a7ce875f4f8f0f29cfa5363b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '969dfe4fe76c34fd711c9f54095ed2ac') in 0.000770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.045949 seconds.
+  path: Assets/Scripts/HexTilemapEditor.cs
+  artifactKey: Guid(ba33862aa13c5cb4d8f22dc7949ec117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HexTilemapEditor.cs using Guid(ba33862aa13c5cb4d8f22dc7949ec117) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '20016aca2bb5839c6e8d73dc4b218a38') in 0.000755 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.687693 seconds.
+  path: Assets/Scripts/HexTilemapGenerator.cs
+  artifactKey: Guid(c3a91fc6a7f3dad478d2c652440bd571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HexTilemapGenerator.cs using Guid(c3a91fc6a7f3dad478d2c652440bd571) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ae260cc917263092f5cc055c16d51758') in 0.000860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.925786 seconds.
+  path: Assets/Scripts/HexTileScript.cs
+  artifactKey: Guid(03681893ef8caf2428e33811bde3fb02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HexTileScript.cs using Guid(03681893ef8caf2428e33811bde3fb02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2afff1c8143c7a86d785904fd595d632') in 0.040565 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.612 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.415 seconds
+Domain Reload Profiling: 2024ms
+	BeginReloadAssembly (258ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (232ms)
+		LoadAssemblies (366ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1416ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (605ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (85ms)
+			ProcessInitializeOnLoadAttributes (366ms)
+			ProcessInitializeOnLoadMethodAttributes (113ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (29ms)
+Refreshing native plugins compatible for Editor in 4.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3544 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (0.8 MB). Loaded Objects now: 4329.
+Memory consumption went from 159.2 MB to 158.5 MB.
+Total: 4.668700 ms (FindLiveObjects: 0.398600 ms CreateObjectMapping: 0.341600 ms MarkObjects: 3.410700 ms  DeleteObjects: 0.516800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 0bf02217e5e746b251862dbb12af7394 -> 0a393af2aa9d0f0d2c8428e96586805b
+  custom:scripting/precompiled-assembly-types:InputSystem.Samples.Visualizers:  -> 5d491fe0c3488dc3b041579e13f451f1
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.572 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.418 seconds
+Domain Reload Profiling: 1987ms
+	BeginReloadAssembly (230ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (223ms)
+		LoadAssemblies (334ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (25ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (1418ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (633ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (13ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (93ms)
+			ProcessInitializeOnLoadAttributes (384ms)
+			ProcessInitializeOnLoadMethodAttributes (102ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+Refreshing native plugins compatible for Editor in 4.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3544 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (0.8 MB). Loaded Objects now: 4345.
+Memory consumption went from 159.3 MB to 158.5 MB.
+Total: 5.297700 ms (FindLiveObjects: 0.354400 ms CreateObjectMapping: 0.413200 ms MarkObjects: 4.052700 ms  DeleteObjects: 0.476200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 0bf02217e5e746b251862dbb12af7394 -> 0a393af2aa9d0f0d2c8428e96586805b
+  custom:scripting/precompiled-assembly-types:InputSystem.Samples.Visualizers:  -> 5d491fe0c3488dc3b041579e13f451f1
+========================================================================
+Received Import Request.
+  Time since last request: 152.198972 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ae5280ad91af67e2a353905758f96678') in 0.002698 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.628 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.278 seconds
+Domain Reload Profiling: 1904ms
+	BeginReloadAssembly (246ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (60ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (267ms)
+		LoadAssemblies (342ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (67ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (44ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1279ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (570ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (30ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (77ms)
+			ProcessInitializeOnLoadAttributes (345ms)
+			ProcessInitializeOnLoadMethodAttributes (104ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Refreshing native plugins compatible for Editor in 2.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3397 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (0.8 MB). Loaded Objects now: 4357.
+Memory consumption went from 156.7 MB to 155.9 MB.
+Total: 3.775400 ms (FindLiveObjects: 0.339700 ms CreateObjectMapping: 0.267800 ms MarkObjects: 2.800600 ms  DeleteObjects: 0.366300 ms)
+
+Prepare: number of updated asset objects reloaded= 8
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 0bf02217e5e746b251862dbb12af7394 -> 0a393af2aa9d0f0d2c8428e96586805b
+  custom:scripting/precompiled-assembly-types:Unity.Recorder:  -> bd5378c99f6216e06dd6e2c2a60a86a4
+  custom:scripting/precompiled-assembly-types:InputSystem.Samples.Visualizers:  -> 5d491fe0c3488dc3b041579e13f451f1
+  custom:scripting/precompiled-assembly-types:Unity.Recorder.Base:  -> 3fec19fdf10e3518c41e41a932f2042f
+  custom:scripting/precompiled-assembly-types:Unity.Recorder.Editor:  -> cd22b836ef1ca10e7d8c91c9be46b4bf
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.626 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.275 seconds
+Domain Reload Profiling: 1897ms
+	BeginReloadAssembly (260ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (256ms)
+		LoadAssemblies (331ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (66ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (39ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1275ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (593ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (85ms)
+			ProcessInitializeOnLoadAttributes (338ms)
+			ProcessInitializeOnLoadMethodAttributes (128ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 2.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3352 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (0.8 MB). Loaded Objects now: 4361.
+Memory consumption went from 155.6 MB to 154.8 MB.
+Total: 5.308700 ms (FindLiveObjects: 0.487600 ms CreateObjectMapping: 0.328900 ms MarkObjects: 4.093500 ms  DeleteObjects: 0.397700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ProcessorISX.cs: bf3a519bb3222208e2cc5d3a1133cc5e -> 
+  custom:scripting/monoscript/fileName/ProcessorFloatISX.cs: b3a3a6aeac21a1262c99987346bdf46c -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramISX.cs: c13927c3b54f9a4370e9f6d54a80cb7a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ArrowHighlight.cs: 6b69fd9b902db43220af98f6198e4cb6 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector2ISX.cs: 2caa5811b3d1aefb86b582b775e63b2e -> 
+  custom:scripting/monoscript/fileName/ControllerDiagramOldInput.cs: fed5fc5015059ab81b2824b8aa793045 -> 
+  custom:scripting/monoscript/fileName/InteractionISX.cs: 5255cfb32d800f4693a6d13824bb7835 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/EventsystemPicker.cs: 4f41f445263b59c43846853e24b3071c -> 
+  custom:scripting/monoscript/fileName/PenISX.cs: 836db77c22c8edcc1f45803800aadb23 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SkyboxRotator.cs: c122ade9e2d3a916264f47a45be02789 -> 
+  custom:scripting/monoscript/fileName/TouchISX.cs: d506537ad677961209c1cee157a00137 -> 
+  custom:scripting/monoscript/fileName/ProcessorQuaternionISX.cs: 3d5a6c77db919aa46887442a43b1a7f3 -> 
+  custom:scripting/monoscript/fileName/TouchDebugInfo.cs: 5f8009b57f5a4c6dbf9da1b364d9893e -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/XboxISX.cs: 36918a0add4fb017177e821989d63bfd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/DualShockOldInput.cs: dfba7ddc7e222399b9fdc83393dadbc4 -> 
+  custom:scripting/monoscript/fileName/InputUIPicker.cs: e47bb03e30fc66cd37715c22d1056642 -> 
+  custom:scripting/monoscript/fileName/GamepadOldInput.cs: 3e090d647a536d297043fed3c41cf87a -> 
+  custom:scripting/monoscript/fileName/FPSWalkerEnhanced.cs: 83ef146d82d16e0154acb6ccb6ea706a -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/TouchOldInput.cs: 83dcaecb295173cea8881946eb714ecf -> 
+  custom:scripting/monoscript/fileName/InputDebugInfo.cs: ba4052f117a41ddadc1a1218953ff392 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/SkyboxChanger.cs: 27a9374ce1608ea6a343361af3aa7d38 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/GamepadISX.cs: 117bd10bb6d7cba00c533bd21a4ac60d -> 
+  custom:scripting/monoscript/fileName/TextHighlight.cs: 970cd5642e5662d314ea8ee02359e0d2 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseISX.cs: 3257c72e877920a81aced3b5f72e65d1 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/ProcessorVector3ISX.cs: b4eea3c869c5c4af197e563948c77285 -> 
+  custom:scripting/monoscript/fileName/SmoothMouseLook.cs: e12fd67feef9d119daa060f2b0fae928 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/JoystickISX.cs: 0b0b31e855691ee5b65064271463d742 -> 
+  custom:scripting/monoscript/fileName/DualShockISX.cs: 3f76a76778c5c5926b9d573ad0c31840 -> 
+  custom:scripting/monoscript/fileName/KeyboardMouseOldInput.cs: 3fa66852c086cb5e476960d9da5f0d1a -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/XboxOldInput.cs: 48a7af08755a496231529c7e7f39b305 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 0bf02217e5e746b251862dbb12af7394 -> 0a393af2aa9d0f0d2c8428e96586805b
+  custom:scripting/precompiled-assembly-types:Unity.Recorder:  -> bd5378c99f6216e06dd6e2c2a60a86a4
+  custom:scripting/precompiled-assembly-types:JetBrains.Rider.PathLocator:  -> cc0f6b5fd89737b9c88f7fff1881167a
+  custom:scripting/precompiled-assembly-types:InputSystem.Samples.Visualizers:  -> 5d491fe0c3488dc3b041579e13f451f1
+  custom:scripting/precompiled-assembly-types:Unity.Recorder.Base:  -> 3fec19fdf10e3518c41e41a932f2042f
+  custom:scripting/precompiled-assembly-types:Unity.Recorder.Editor:  -> cd22b836ef1ca10e7d8c91c9be46b4bf
+  custom:scripting/precompiled-assembly-types:Unity.Rider.Editor:  -> 332fda7feca3dc3cf0d3d930da452a26

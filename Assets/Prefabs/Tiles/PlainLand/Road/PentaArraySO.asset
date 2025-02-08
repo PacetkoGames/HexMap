@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dd64cfb784ccbb49915c92138d79caf, type: 3}
+  m_Name: PentaArraySO
+  m_EditorClassIdentifier: 
+  TileArray:
+  - {fileID: 7430191846942353811, guid: a9d2777938c6d75418b2512da8003c56, type: 3}
+  - {fileID: 1152898664546235749, guid: e3ecd05218a897b43bec587c58e595d0, type: 3}
+  - {fileID: 1334000668744146905, guid: 3286004616f52424ca0ed4256ffa94c5, type: 3}
+  - {fileID: 7486610196235271822, guid: 872da2eb64b02d24791e9ecf4f6e792b, type: 3}
+  - {fileID: 7583636853897952911, guid: 4e4d9ce4c72c5c1419b9522ad2943022, type: 3}
+  - {fileID: 878411571645084106, guid: d4feddc2fb7847549bccaca7dcb90d0b, type: 3}
